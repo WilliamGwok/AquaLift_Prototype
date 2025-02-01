@@ -9,6 +9,7 @@
 <p align="center">本项目为本人在2025年1月4日至1月25日参加香港科创教育中心举办的InnoX冬令营期间以小组形式完成。技术落地部分由本人负责，于香港科技大学ISD实验室搭建完成。</p>
 
 ## 项目介绍
+
 <div align=center>
 <img src="https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/Figures/AquaLift%20Poster/1.png" width="710px">
 </div>
@@ -17,6 +18,8 @@
 </div>
 
 ## 工作内容
+
+产品原型的搭建旨在展示产品的某些技术亮点。深海养殖网箱的技术亮点在于升降系统，实时检测系统和管理系统。基于此，我们通过控制气囊充放气，接收温度传感器的数据以及建立简单的IoT系统来呈现以上功能。
 
 ### 物料清单
 
@@ -54,17 +57,28 @@
 
 ### 气路设计
 
+<div align=center>
+<img src="https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/Figures/air_route.png" width="710px">
+</div>
 设计目的是给单个腔体进行充放气，故气路设计并不复杂。图中少接了一个单向阀，应要接在气泵到电磁阀之间的气路上。值得注意的一点是气管接头都应缠上生料带，经测试发现该做法能有效防止接口处漏气
 
 ### IoT系统设计
 
 设计目的为远程监控水体温度，并可简单控制网箱在水中的升降。
+
 鉴于开发时间有限，该项目直接使用免费的IoT平台Blynk。
 
+<div align=center>
+<img src="https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/Figures/blynk.png" width="710px">
+</div>
+
 简单的实现流程如图
+<div align=center>
+<img src="https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/Figures/flow_chart.png" width="710px">
+</div>
 
 ### 测试结果
-
+https://github.com/user-attachments/assets/17f17435-935e-403c-b7f5-fe6d85c77b0a
 
 ## 项目总结
 
