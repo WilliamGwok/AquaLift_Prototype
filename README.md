@@ -9,6 +9,12 @@
 <p align="center">本项目为本人在2025年1月4日至1月25日参加香港科创教育中心举办的InnoX冬令营期间以小组形式完成。技术落地部分由本人负责，于香港科技大学ISD实验室搭建完成。</p>
 
 ## 项目介绍
+<div align=center>
+<img src="https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/Figures/AquaLift%20Poster/1.png" width="710px">
+</div>
+<div align=center>
+<img src="https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/Figures/AquaLift%20Poster/2.png" width="710px">
+</div>
 
 ## 工作内容
 
