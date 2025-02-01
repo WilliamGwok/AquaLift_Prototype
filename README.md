@@ -1,3 +1,6 @@
+### English Version Please Click: [ENG_README](https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/ENG_README.md)
+### 日本語バージョンは: [JAP_README](https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/JAP_README.md)
+
 # AquaLift_Prototype
 
 ## 前言
