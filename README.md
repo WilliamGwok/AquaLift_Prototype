@@ -55,6 +55,11 @@
 
 <p align="center">电路上难度不大，理清继电器相关拓扑就可以。重要的是上电前检查所有设备是否共地。此外，由于电路拓扑布置在面包板上，在同事ZJH的建议下采用硅胶线加排针的方式实现器件到面包板的连接（减少使用易断的杜邦线以提高电路稳定性）</p>
 
+<div align=center>
+<img src="https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/Figures/relay_cir.jpg" width="710px">
+</div>
+<p align="center">继电器相关拓扑如上图</p>
+
 ### 气路设计
 
 <div align=center>
