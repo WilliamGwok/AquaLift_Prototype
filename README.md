@@ -2,16 +2,17 @@
 
 ## 前言
 
-### 项目介绍
 <div align=center>
 <img src="https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/Figures/Team_photo_with_prototype.jpg" width="710px">
 </div>
 <br>
 <p align="center">本项目为本人在2025年1月4日至1月25日参加香港科创教育中心举办的InnoX冬令营期间以小组形式完成。技术落地部分由本人负责，用时约3天，于香港科技大学ISD实验室搭建完成。</p>
 
-### 工作内容
+## 项目介绍
 
-#### 物料清单
+## 工作内容
+
+### 物料清单
 
 | 物品名称/描述                      | 图片                   | 价格    | 数量 | 备注 |
 | ---------------------------------- | ---------------------- | ------- | ---- | ---- |
@@ -28,7 +29,7 @@
 | 继电器模块                         | ![Image](https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/Figures/Material/electric_relay.png) | ¥17.80  | 2    |   控制气泵和电磁阀的通断   |
 | DS18B20 温度传感器                 | ![Image](https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/Figures/Material/temp_sensor.png) | ¥17.90  | 1    |   由开发板供电   |
 | KCD3 船用电源开关                  | ![Image](https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/Figures/Material/switch.png) | ¥7.80   | 1    |  控制电源通断    |
-| ESP8266 Wi-Fi 模块 NodeMCU         | ![Image](https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/Figures/Material/micro_unit.png) | ¥26.40  | 1    |   首发数据，进行简单的电路控制   |
+| ESP8266 Wi-Fi 模块 NodeMCU         | ![Image](https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/Figures/Material/micro_unit.png) | ¥26.40  | 1    |   收发数据，进行简单的电路控制   |
 | 12V 电池                           | ![Image](https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/Figures/Material/12V_battery.png) | ¥7.70   | 1    |  --    |
 | 3.7V 电池                          | ![Image](https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/Figures/Material/3_7V_battery.png) | ¥28.00  | 1    | --     |
 | 面包板套件                         | ![Image](https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/Figures/Material/bread_board.png) | ¥36.36  | 1    |  --    |
@@ -36,7 +37,7 @@
 | 小型孵化网箱                       | ![Image](https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/Figures/Material/net_cage.png) | ¥12.95  | 1    |    --  |
 
 
-#### 电路设计
+### 电路设计
 
 
 <div align=center>
@@ -44,16 +45,13 @@
 </div>
 <br>
 
-<p align="center">本项目为本人在2025年1月4日至1月25日参加香港科创教育中心举办的InnoX冬令营期间以小组形式完成。技术落地部分由本人负责，用时约3天，于香港科技大学ISD实验室搭建完成。</p>
+<p align="center">电路上难度不大，理清继电器相关拓扑就可以。重要的是上电前检查所有设备是否共地。此外，由于电路拓扑布置在面包板上，在同事ZJH的建议下采用硅胶线加排针的方式实现器件到面包板的连接</p>
 
 
 
-#### 气路设计
+### 气路设计
 
+### IoT系统设计
 
+##项目总结
 
-#### IoT系统设计
-
-
-
-#### 
