@@ -3,8 +3,11 @@
 ## 前言
 
 ### 项目介绍
-
-本项目为本人在2025年1月4日至1月25日参加香港科创教育中心举办的InnoX冬令营期间以小组形式完成。技术落地部分由本人负责，用时约3天，于香港科技大学ISD实验室搭建完成。
+<div align=center>
+<img src="https://github.com/WilliamGwok/AquaLift_Prototype/blob/main/Figures/Team_photo_with_prototype.jpg" width="710px">
+</div>
+<br>
+<p align="center">本项目为本人在2025年1月4日至1月25日参加香港科创教育中心举办的InnoX冬令营期间以小组形式完成。技术落地部分由本人负责，用时约3天，于香港科技大学ISD实验室搭建完成。</p>
 
 ### 工作内容
 
@@ -32,7 +35,6 @@
 | 3.3V 电池                          | ![Image](url_to_image) | ¥28.00  | 1    |      |
 | 气管转径接头 10转8                 | ![Image](url_to_image) | ¥2.95   | 1    |      |
 | 面包板套件                         | ![Image](url_to_image) | ¥36.36  | 1    |      |
-|                                    |                        |         |      |      |
 
 #### 电路设计
 
